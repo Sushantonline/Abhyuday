@@ -18,14 +18,3 @@ _Project Jupiter_ desires to improve flight perfomance of the rockets, therefore
 * Matlab >= R2016a
 * Simulink >= R2016a
 * Aerospace Blockset >= R2016a
-
-## Authors
-* **Adriano Augusto Antongiovanni**
-* **Bruno Abdulklech Sorban**
-* **Caio Nascimento Balreira**
-* **Mateus Stano Junqueira**
-* **Patrick Sampaio dos Santos Brandão**
-* **Victor Campos Jinsi**
-
-## Acknowledgements
-We would like to thank all support from professors and students involved with the creation of this software. A special thanks to Giovani Ceotto who gently used his time to support and share his knowledge, which are essential in the creation of this project.
